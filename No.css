@@ -1,0 +1,12 @@
+    body {
+        background-color: aquamarine;
+        scroll-behavior: smooth;
+    }
+
+    img {
+        display: block;
+        width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 300px;
+    }
